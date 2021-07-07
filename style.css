@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color: olivedrab;
+}
+
+.Heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#Camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.NameOfMembers,
+#MembersName #MembersAccuracy {
+    color: yellow;
+}
+
+h4 {
+    padding-top: 10px;
+    padding-bottom: 11px;
+    background-color: blue;
+    height: 40px;
+}
